@@ -1,0 +1,182 @@
+[
+  {
+    "filmName": "The Shawshank Redemption",
+    "language": "English",
+    "genre": ["Drama", "Crime"],
+    "score": 9.7,
+    "year": 1994,
+    "rating": "R",
+    "poster": "1.jpg"
+  },
+  {
+    "filmName": "Farewell My Concubine",
+    "language": "Chinese",
+    "genre": ["Drama"],
+    "score": 9.6,
+    "year": 1993,
+    "rating": "R",
+    "poster": "2.jpg"
+  },
+  {
+    "filmName": "Forrest Gump",
+    "language": "English",
+    "genre": ["Comedy", "Drama"],
+    "score": 9.5,
+    "year": 1994,
+    "rating": "PG-13",
+    "poster": "3.jpg"
+  },
+  {
+    "filmName": "Titanic",
+    "language": "English",
+    "genre": ["History", "Drama", "Romance"],
+    "score": 9.5,
+    "year": 1997,
+    "rating": "PG-13",
+    "poster": "4.jpg"
+  },
+  {
+    "filmName": "Leon: The Professional",
+    "language": "English",
+    "genre": ["Mystery & Thriller", "Drama", "Action", "Crime"],
+    "score": 9.4,
+    "year": 1994,
+    "rating": "R",
+    "poster": "5.jpg"
+  },
+  {
+    "filmName": "Life Is Beautiful",
+    "language": "Italian",
+    "genre": ["Comedy", "Drama"],
+    "score": 9.6,
+    "year": 1997,
+    "rating": "PG-13",
+    "poster": "6.jpg"
+  },
+  {
+    "filmName": "Spirited Away",
+    "language": "Japanese",
+    "genre": ["Fantasy", "Adventure", "Animation"],
+    "score": 9.4,
+    "year": 2001,
+    "rating": "PG",
+    "poster": "7.jpg"
+  },
+  {
+    "filmName": "Schindler's List",
+    "language": "English",
+    "genre": ["History", "Drama"],
+    "score": 9.6,
+    "year": 1993,
+    "rating": "R",
+    "poster": "8.jpg"
+  },
+  {
+    "filmName": "Inception",
+    "language": "English",
+    "genre": ["Sci-Fi", "Mystery & Thriller", "Action"],
+    "score": 9.4,
+    "year": 2010,
+    "rating": "PG-13",
+    "poster": "9.jpg"
+  },
+  {
+    "filmName": "Interstellar",
+    "language": "English",
+    "genre": ["Sci-Fi", "Adventure", "Action"],
+    "score": 9.4,
+    "year": 2014,
+    "rating": "PG-13",
+    "poster": "10.jpg"
+  },
+  {
+    "filmName": "The Truman Show",
+    "language": "English",
+    "genre": ["Comedy", "Drama"],
+    "score": 9.4,
+    "year": 1998,
+    "rating": "PG",
+    "poster": "11.jpg"
+  },
+  {
+    "filmName": "Hachi: A Dog's Tale",
+    "language": "English",
+    "genre": ["Drama"],
+    "score": 9.4,
+    "year": 2009,
+    "rating": "G",
+    "poster": "12.jpg"
+  },
+  {
+    "filmName": "The Legend of 1900",
+    "language": "Italian",
+    "genre": ["Drama"],
+    "score": 9.3,
+    "year": 1998,
+    "rating": "R",
+    "poster": "13.jpg"
+  },
+  {
+    "filmName": "3 Idiots",
+    "language": "Hindi",
+    "genre": ["Comedy"],
+    "score": 9.2,
+    "year": 2009,
+    "rating": "PG-13",
+    "poster": "14.jpg"
+  },
+  {
+    "filmName": "WALL-E",
+    "language": "English",
+    "genre": ["Kids & Family", "Adventure", "Sci-Fi", "Comedy", "Animation"],
+    "score": 9.3,
+    "year": 2008,
+    "rating": "G",
+    "poster": "15.jpg"
+  },
+  {
+    "filmName": "The Chorus",
+    "language": "French",
+    "genre": ["Drama"],
+    "score": 9.3,
+    "year": 2005,
+    "rating": "PG",
+    "poster": "16.jpg"
+  },
+  {
+    "filmName": "Infernal Affairs",
+    "language": "Chinese",
+    "genre": ["Crime", "Drama", "Action", "Mystery & Thriller"],
+    "score": 9.3,
+    "year": 2004,
+    "rating": "R",
+    "poster": "17.jpg"
+  },
+  {
+    "filmName": "Zootopia",
+    "language": "English",
+    "genre": ["Kids & Family", "Comedy", "Adventure", "Animation"],
+    "score": 9.2,
+    "year": 2016,
+    "rating": "PG",
+    "poster": "18.jpg"
+  },
+  {
+    "filmName": "A Chinese Odyssey Part Two - Cinderella",
+    "language": "Chinese",
+    "genre": ["Action", "Adventure", "Comedy"],
+    "score": 9.2,
+    "year": 1995,
+    "rating": "PG-13",
+    "poster": "19.jpg"
+  },
+  {
+    "filmName": "Witness for the Prosecution",
+    "language": "English",
+    "genre": ["Crime", "Drama", "Mystery & Thriller"],
+    "score": 9.6,
+    "year": 1957,
+    "rating": "R",
+    "poster": "20.jpg"
+  }
+]

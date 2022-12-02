@@ -1,0 +1,40 @@
+.list-item {
+  background-color: #fff;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.125);
+  padding: 0 1rem 1rem 1rem;
+  margin: 2rem 0;
+}
+.filmName {
+  height: 50px;
+  line-height: 50px;
+  font-size: 24px;
+}
+.film-content {
+  display: flex;
+}
+.film-poster {
+  flex: 0 0 120px;
+  margin-right: 2rem;
+}
+.film-poster img {
+  display: block;
+  width: 100%;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out;
+}
+.film-poster img:hover {
+  transform: scale(0.95);
+}
+.film-info {
+  flex: 1;
+  line-height: 2.2;
+}
+.file-operation {
+  flex: 0 0 200px;
+}
+.submit {
+  margin-top: 12px;
+}

@@ -1,0 +1,32 @@
+.score {
+  background-color: #fff;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.125);
+  padding: 0 2rem 2rem 1rem;
+  margin: 2rem 0;
+  z-index: 10;
+  top: 43px;
+  width: 300px;
+  position: absolute;
+  right: 0;
+  color: #000;
+}
+.score:empty {
+  height: 0;
+  padding: 0;
+  margin: 0;
+  border: none;
+  box-shadow: none;
+}
+.score-item {
+  background-color: #fff;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.125);
+  padding: 0 1rem 1rem 1rem;
+  margin: 2rem 0;
+  color: #000;
+  font-size: 16px;
+  line-height: 2;
+}
