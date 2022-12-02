@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-##### If you used the stencil code, this is `https://feignedotter702.github.io/development/`
+##### [https://feignedotter702.github.io/development/](https://feignedotter702.github.io/development/)
 
 ### Goal and Value of the Application
 #####  The goal for this application is a page of some imbd most rated movies. It provide users with the ability to filter the movies by genre and sort by score or the year the movie released, so that they can select a movie that they're interted to watch.
