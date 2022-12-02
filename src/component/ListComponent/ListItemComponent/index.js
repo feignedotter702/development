@@ -33,7 +33,7 @@ function ListItemComponent({ item, meScore, scoreList, setScoreList }) {
       <div className="filmName">{filmName}</div>
       <div className="film-content">
         <div className="film-poster">
-          <img src={`/img/${poster}`} alt={filmName} />
+          <img src={`./img/${poster}`} alt={filmName} />
         </div>
         <div className="film-info">
           <div>Language: {language}</div>
